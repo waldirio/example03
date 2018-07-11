@@ -53,7 +53,7 @@ def write_to_file_def():
 
 
 if __name__ == "__main__":
-    pass
+    # pass
     main()
     count_def()
     if_def()
